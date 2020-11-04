@@ -67,7 +67,7 @@ Maintained by [Kakashi](http://t.me/Senpai_Dubbers_owner)
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
-I'm a heroine For Fun and help admins manage their groups with Cutiepii! Have a look at the following for an idea of some of \
+I'm a heroine For Fun and help admins manage their groups with Neko! Have a look at the following for an idea of some of \
 the things I can help you with.
 
 *Main* commands available:
@@ -88,7 +88,7 @@ And the following:
 SAITAMA_IMG ="https://telegra.ph/file/6068d093e13fc2f0a379d.png"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
-Cutiepii is hosted on one of Kaizoku's Servers and doesn't require any donations as of now but \
+Neko is hosted on one of Kaizoku's Servers and doesn't require any donations as of now but \
 You can donate to the original writer of the Base code, Rajkumar
 There are two ways of supporting him; [PayPal](paypal.me/wadwialatech), or [Ko-Fi](ko-fi.com/Rajkumar)."""
 
@@ -208,7 +208,7 @@ def start(update: Update, context: CallbackContext):
                 reply_markup=InlineKeyboardMarkup(
                     [[
                         InlineKeyboardButton(
-                            text="☑️ Add Cutiepii to your group",
+                            text="☑️ Add Neko to your group",
                             url="t.me/{}?startgroup=true".format(
                                 context.bot.username))
                     ],
