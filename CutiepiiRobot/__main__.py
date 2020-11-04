@@ -59,9 +59,9 @@ You can find my list of available commands with /help.
 
 FREE MOVIES AND SERIES ON [HINDI K DRAMA](https://Hindikdrama.xyz)
 
-Developed By Techno Ocean
+Developed By [Techno Ocean](http://t.me/Wadiwala_Tech)
 
-Maintained by [Rajkumar](http://t.me/Wadiwala_Tech)
+Maintained by [Kakashi](http://t.me/Senpai_Dubbers_owner)
 
 """
 
@@ -85,7 +85,7 @@ And the following:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-SAITAMA_IMG ="https://telegra.ph/file/2e61aafdbc29d0205d980.png"
+SAITAMA_IMG ="https://telegra.ph/file/6068d093e13fc2f0a379d.png"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 Cutiepii is hosted on one of Kaizoku's Servers and doesn't require any donations as of now but \
